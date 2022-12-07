@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @sjannn
+## 👋 Hi, I’m sjannn
 👀 Web Developer | Student
 🚀 javascrip react next | 👨‍💻 frontend developer | 🎵 melomaniac |  🎮 gamer 
 
