@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m sjannn
-👀 Web Developer | Student
+👀 web developer | student
 🚀 javascrip react next | 👨‍💻 frontend developer | 🎵 melomaniac |  🎮 gamer 
 
 ### Social
