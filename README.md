@@ -9,7 +9,7 @@ Soy un desarrollador frontend creativo en constante mejora de mis habilidades. M
 - **Frameworks:** Next.js
 - **Lenguajes:** TypeScript, JavaScript
 - **UI Libraries:** Shadcn/UI
-- **Estilos:** Tailwind CSS
+- **Estilos:** Tailwind CSS | SASS
 - **Otras herramientas:** Notion
 
 ## En qué estoy trabajando actualmente
